@@ -1,0 +1,11 @@
+[gd_scene load_steps=2 format=3 uid="uid://d3at3ag8c332j"]
+
+[ext_resource type="Texture2D" uid="uid://b3hltg105m2la" path="res://assets/TX Player.png" id="1_aksuc"]
+
+[node name="Unit" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(0, -12)
+texture = ExtResource("1_aksuc")
+region_enabled = true
+region_rect = Rect2(6, 14, 21, 44)

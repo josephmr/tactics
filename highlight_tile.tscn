@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b85ngh5kxlfvg"]
+
+[ext_resource type="Texture2D" uid="uid://bvalcumjbopic" path="res://assets/highlight_tile.png" id="1_ytug6"]
+
+[node name="HighlightTile" type="Sprite2D" groups=["highlight_tile"]]
+texture = ExtResource("1_ytug6")
